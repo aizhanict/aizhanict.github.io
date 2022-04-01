@@ -51,7 +51,7 @@
       font-weight: 600;
       line-height: 1em;
       text-transform: uppercase;
-      color:#ffe2c6;
+      color:#ec9c66;
       -webkit-text-stroke:1.1px #362415;
       
   }
@@ -62,8 +62,8 @@
     font-weight: 500;
     line-height: 1em;
     text-transform: uppercase;
-    color:#362415;
-    -webkit-text-stroke: 0.2px #38220f;
+    color:	#b501f6;
+    -webkit-text-stroke: 0.9px #38220f;
 }
   .text a{
     display: inline-block;
